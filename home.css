@@ -19,3 +19,19 @@ h1{
 .navbar a:hover{
     background-color: #111;
 }
+
+.body {
+    font-size:1.5rem;
+    font-family: Helvetica;
+    min-block-size: 100vb;
+    background-image: linear-gradient(to left bottom, rgb(55, 65, 81), rgb(17, 24, 39), rgb(0, 0, 0))
+}
+/* .navbar{
+    display: flex;
+    justify-content: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0; 
+    padding: 16px 32px;
+} */
